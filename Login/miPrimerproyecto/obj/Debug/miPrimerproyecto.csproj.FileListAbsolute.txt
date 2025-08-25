@@ -1,0 +1,11 @@
+C:\Users\Dell\source\repos\PRIMERO\miPrimerproyecto\bin\Debug\miPrimerproyecto.exe.config
+C:\Users\Dell\source\repos\PRIMERO\miPrimerproyecto\bin\Debug\miPrimerproyecto.exe
+C:\Users\Dell\source\repos\PRIMERO\miPrimerproyecto\bin\Debug\miPrimerproyecto.pdb
+C:\Users\Dell\source\repos\PRIMERO\miPrimerproyecto\obj\Debug\miPrimerproyecto.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\PRIMERO\miPrimerproyecto\obj\Debug\miPrimerproyecto.Form1.resources
+C:\Users\Dell\source\repos\PRIMERO\miPrimerproyecto\obj\Debug\miPrimerproyecto.Properties.Resources.resources
+C:\Users\Dell\source\repos\PRIMERO\miPrimerproyecto\obj\Debug\miPrimerproyecto.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\PRIMERO\miPrimerproyecto\obj\Debug\miPrimerproyecto.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\PRIMERO\miPrimerproyecto\obj\Debug\miPrimerproyecto.exe
+C:\Users\Dell\source\repos\PRIMERO\miPrimerproyecto\obj\Debug\miPrimerproyecto.pdb
+C:\Users\Dell\source\repos\PRIMERO\miPrimerproyecto\obj\Debug\miPrimerproyecto.exe.config

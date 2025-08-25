@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\source\\repos\\PRIMERO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96B9B352-1DF4-4DE1-800B-6BD9004FA9E5}|miPrimerproyecto\\miPrimerproyecto.csproj|c:\\users\\dell\\source\\repos\\primero\\miprimerproyecto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96B9B352-1DF4-4DE1-800B-6BD9004FA9E5}|miPrimerproyecto\\miPrimerproyecto.csproj|solutionrelative:miprimerproyecto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B9B352-1DF4-4DE1-800B-6BD9004FA9E5}|miPrimerproyecto\\miPrimerproyecto.csproj|C:\\Users\\Dell\\source\\repos\\PRIMERO\\miprimerproyecto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96B9B352-1DF4-4DE1-800B-6BD9004FA9E5}|miPrimerproyecto\\miPrimerproyecto.csproj|solutionrelative:miprimerproyecto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\PRIMERO\\miPrimerproyecto\\Form1.cs",
+              "RelativeDocumentMoniker": "miPrimerproyecto\\Form1.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\PRIMERO\\miPrimerproyecto\\Form1.cs",
+              "RelativeToolTip": "miPrimerproyecto\\Form1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADgvxEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T23:56:07.002Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\PRIMERO\\miPrimerproyecto\\Form1.cs",
+              "RelativeDocumentMoniker": "miPrimerproyecto\\Form1.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\PRIMERO\\miPrimerproyecto\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "miPrimerproyecto\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T04:33:14.438Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
