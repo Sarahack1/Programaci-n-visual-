@@ -1,0 +1,11 @@
+C:\Users\Dell\source\repos\Practica2\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Dell\source\repos\Practica2\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Dell\source\repos\Practica2\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Dell\source\repos\Practica2\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Practica2\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\Dell\source\repos\Practica2\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Dell\source\repos\Practica2\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\Practica2\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Practica2\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Dell\source\repos\Practica2\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\Dell\source\repos\Practica2\Calculadora\obj\Debug\Calculadora.exe.config
