@@ -1,0 +1,11 @@
+C:\Users\Dell\source\repos\Visor de imagenes\Visor de imagenes\bin\Debug\Visor de imagenes.exe.config
+C:\Users\Dell\source\repos\Visor de imagenes\Visor de imagenes\bin\Debug\Visor de imagenes.exe
+C:\Users\Dell\source\repos\Visor de imagenes\Visor de imagenes\bin\Debug\Visor de imagenes.pdb
+C:\Users\Dell\source\repos\Visor de imagenes\Visor de imagenes\obj\Debug\Visor de imagenes.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Visor de imagenes\Visor de imagenes\obj\Debug\Visor_de_imagenes.Form1.resources
+C:\Users\Dell\source\repos\Visor de imagenes\Visor de imagenes\obj\Debug\Visor_de_imagenes.Properties.Resources.resources
+C:\Users\Dell\source\repos\Visor de imagenes\Visor de imagenes\obj\Debug\Visor de imagenes.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\Visor de imagenes\Visor de imagenes\obj\Debug\Visor de imagenes.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Visor de imagenes\Visor de imagenes\obj\Debug\Visor de imagenes.exe
+C:\Users\Dell\source\repos\Visor de imagenes\Visor de imagenes\obj\Debug\Visor de imagenes.pdb
+C:\Users\Dell\source\repos\Visor de imagenes\Visor de imagenes\obj\Debug\Visor de imagenes.exe.config
