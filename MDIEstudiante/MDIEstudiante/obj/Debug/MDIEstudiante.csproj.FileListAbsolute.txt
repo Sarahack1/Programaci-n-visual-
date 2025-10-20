@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\MDIEstudiante\MDIEstudiante\obj\Debug\MDIEstudiante.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\MDIEstudiante\MDIEstudiante\obj\Debug\MDIEstudiante.Form1.resources
+C:\Users\Dell\source\repos\MDIEstudiante\MDIEstudiante\obj\Debug\MDIEstudiante.Form2.resources
+C:\Users\Dell\source\repos\MDIEstudiante\MDIEstudiante\obj\Debug\MDIEstudiante.Form3.resources
+C:\Users\Dell\source\repos\MDIEstudiante\MDIEstudiante\obj\Debug\MDIEstudiante.Form4.resources
+C:\Users\Dell\source\repos\MDIEstudiante\MDIEstudiante\obj\Debug\MDIEstudiante.Properties.Resources.resources
+C:\Users\Dell\source\repos\MDIEstudiante\MDIEstudiante\obj\Debug\MDIEstudiante.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\MDIEstudiante\MDIEstudiante\obj\Debug\MDIEstudiante.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\MDIEstudiante\MDIEstudiante\bin\Debug\MDIEstudiante.exe.config
+C:\Users\Dell\source\repos\MDIEstudiante\MDIEstudiante\bin\Debug\MDIEstudiante.exe
+C:\Users\Dell\source\repos\MDIEstudiante\MDIEstudiante\bin\Debug\MDIEstudiante.pdb
+C:\Users\Dell\source\repos\MDIEstudiante\MDIEstudiante\obj\Debug\MDIEstudiante.exe
+C:\Users\Dell\source\repos\MDIEstudiante\MDIEstudiante\obj\Debug\MDIEstudiante.pdb
+C:\Users\Dell\source\repos\MDIEstudiante\MDIEstudiante\obj\Debug\MDIEstudiante.exe.config
